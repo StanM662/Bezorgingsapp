@@ -1,1 +1,1 @@
-C:\Users\morre\source\repos\Bezorgingsapplicatie\MAUI-Applicatie\MAUI-Applicatie\MAUI-Applicatie.csproj;x64
+C:\Users\kleij\Source\Repos\Bezorgersapp\MAUI-Applicatie\MAUI-Applicatie\MAUI-Applicatie.csproj;x64

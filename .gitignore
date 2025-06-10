@@ -5,3 +5,10 @@
 /MAUI-applicatie/bin/Debug
 /MAUI-applicatie/bin/Debug/net8.0
 /MAUI-applicatie/obj
+.vs/
+.user
+.suo
+.apk
+.db
+.pdb
+.DS_Store
