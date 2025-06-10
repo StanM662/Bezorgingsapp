@@ -34,7 +34,7 @@
             <Button
                 x:Name="CounterBtn2"
                 Text="This is a button" 
-                SemanticProperties.Hint="Counts the number of times you click"
+                SemanticProperties.Hint=""
                 Clicked="Counter_Clicked"
                 BackgroundColor="#FF3540"
                 HorizontalOptions="Fill"/>
