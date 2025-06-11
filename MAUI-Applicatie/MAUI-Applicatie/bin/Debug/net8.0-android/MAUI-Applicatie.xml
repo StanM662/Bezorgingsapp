@@ -4,5 +4,14 @@
         <name>MAUI-Applicatie</name>
     </assembly>
     <members>
+        <member name="T:MAUI_Applicatie.ViewModel.MainViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="F:MAUI_Applicatie.ViewModel.MainViewModel.tapCommand">
+            <summary>The backing field for <see cref="P:MAUI_Applicatie.ViewModel.MainViewModel.TapCommand"/>.</summary>
+        </member>
+        <member name="P:MAUI_Applicatie.ViewModel.MainViewModel.TapCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MAUI_Applicatie.ViewModel.MainViewModel.Tap(System.String)"/>.</summary>
+        </member>
     </members>
 </doc>
