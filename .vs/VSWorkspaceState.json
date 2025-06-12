@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MAUI-Applicatie",
+    "\\MAUI-Applicatie\\MAUI-Applicatie",
+    "\\MAUI-Applicatie\\MAUI-Applicatie\\ViewModel"
   ],
-  "SelectedNode": "\\MAUI-Applicatie.sln",
+  "SelectedNode": "\\MAUI-Applicatie\\MAUI-Applicatie\\ViewModel\\MainViewModel.cs",
   "PreviewInSolutionExplorer": false
 }
