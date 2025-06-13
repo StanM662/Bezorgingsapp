@@ -64,10 +64,22 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="NewPage1.xaml">
+	  <Compile Update="LoginPagina.xaml.cs">
+	    <DependentUpon>LoginPagina.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="BestellingPagina.xaml.cs">
+	    <DependentUpon>BestellingPagina.xaml</DependentUpon>
+	  </Compile>
+	  <Compile Update="WelkomPagina.xaml.cs">
+	    <DependentUpon>WelkomPagina.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="LoginPagina.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="NewPage2.xaml">
+	  <MauiXaml Update="BestellingPagina.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="NewPage4.xaml">

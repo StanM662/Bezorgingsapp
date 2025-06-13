@@ -39,17 +39,17 @@ build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.AppShell.x
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/MainPage.xaml]
+[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/BestellingPagina.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.MainPage.xaml
-build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
-build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.BestellingPagina.xaml
+build_metadata.AdditionalFiles.TargetPath = BestellingPagina.xaml
+build_metadata.AdditionalFiles.RelativePath = BestellingPagina.xaml
 
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/NewPage1.xaml]
+[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/LoginPagina.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.NewPage1.xaml
-build_metadata.AdditionalFiles.TargetPath = NewPage1.xaml
-build_metadata.AdditionalFiles.RelativePath = NewPage1.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.LoginPagina.xaml
+build_metadata.AdditionalFiles.TargetPath = LoginPagina.xaml
+build_metadata.AdditionalFiles.RelativePath = LoginPagina.xaml
 
 [C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
@@ -62,3 +62,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/WelkomPagina.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.WelkomPagina.xaml
+build_metadata.AdditionalFiles.TargetPath = WelkomPagina.xaml
+build_metadata.AdditionalFiles.RelativePath = WelkomPagina.xaml

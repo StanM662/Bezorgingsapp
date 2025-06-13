@@ -4,7 +4,8 @@
        xmlns:pages="clr-namespace:MAUI_Applicatie"
        x:Class="MAUI_Applicatie.AppShell">
 
-    <ShellContent Title="MainPage" ContentTemplate="{DataTemplate pages:MainPage}" />
-    <ShellContent Title="Page1" ContentTemplate="{DataTemplate pages:NewPage1}" />
+    <ShellContent Title="Welkom" ContentTemplate="{DataTemplate pages:WelkomPagina}" />
+    <ShellContent Title="Bestellingen" ContentTemplate="{DataTemplate pages:BestellingPagina}" />
+    <ShellContent Title="Account" ContentTemplate="{DataTemplate pages:LoginPagina}" />
 </Shell>
 
