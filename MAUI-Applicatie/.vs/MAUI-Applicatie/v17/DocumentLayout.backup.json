@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\loginpagina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\loginpagina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\bestellingpagina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\bestellingpagina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,32 +27,32 @@
       "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\viewmodel\\pageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\viewmodel\\pageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\welkompagina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\welkompagina.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\newpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\newpage2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\welkompagina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\welkompagina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\bestellingpagina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\bestellingpagina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\loginpagina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\loginpagina.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\newpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\newpage2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\viewmodel\\pageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|solutionrelative:maui-applicatie\\viewmodel\\pageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BCA506A-96F2-4C22-A0C1-281D4E3C2EB2}|MAUI-Applicatie\\MAUI-Applicatie.csproj|c:\\users\\morre\\source\\repos\\nieuwe map\\maui-applicatie\\maui-applicatie\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -101,41 +101,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NewPage2.xaml",
-              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\NewPage2.xaml",
-              "RelativeDocumentMoniker": "MAUI-Applicatie\\NewPage2.xaml",
-              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\NewPage2.xaml",
-              "RelativeToolTip": "MAUI-Applicatie\\NewPage2.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MAUI-Applicatie\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\AppShell.xaml",
+              "RelativeToolTip": "MAUI-Applicatie\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T14:02:45.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BestellingPagina.xaml",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\BestellingPagina.xaml",
+              "RelativeDocumentMoniker": "MAUI-Applicatie\\BestellingPagina.xaml",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\BestellingPagina.xaml",
+              "RelativeToolTip": "MAUI-Applicatie\\BestellingPagina.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-13T07:44:43.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NewPage1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\NewPage1.xaml.cs",
-              "RelativeDocumentMoniker": "MAUI-Applicatie\\NewPage1.xaml.cs",
-              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\NewPage1.xaml.cs",
-              "RelativeToolTip": "MAUI-Applicatie\\NewPage1.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "WelkomPagina.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\WelkomPagina.xaml.cs",
+              "RelativeDocumentMoniker": "MAUI-Applicatie\\WelkomPagina.xaml.cs",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\WelkomPagina.xaml.cs",
+              "RelativeToolTip": "MAUI-Applicatie\\WelkomPagina.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:23:04.009Z",
+              "WhenOpened": "2025-06-10T09:08:59.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NewPage1.xaml",
-              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\NewPage1.xaml",
-              "RelativeDocumentMoniker": "MAUI-Applicatie\\NewPage1.xaml",
-              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\NewPage1.xaml",
-              "RelativeToolTip": "MAUI-Applicatie\\NewPage1.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-11T14:19:20.23Z",
+              "DocumentIndex": 6,
+              "Title": "PageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\ViewModel\\PageViewModel.cs",
+              "RelativeDocumentMoniker": "MAUI-Applicatie\\ViewModel\\PageViewModel.cs",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\ViewModel\\PageViewModel.cs",
+              "RelativeToolTip": "MAUI-Applicatie\\ViewModel\\PageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:18:52.807Z",
               "EditorCaption": ""
             },
             {
@@ -146,61 +159,9 @@
               "RelativeDocumentMoniker": "MAUI-Applicatie\\ViewModel\\MainViewModel.cs",
               "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\ViewModel\\MainViewModel.cs",
               "RelativeToolTip": "MAUI-Applicatie\\ViewModel\\MainViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T14:30:49.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\AppShell.xaml",
-              "RelativeDocumentMoniker": "MAUI-Applicatie\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\AppShell.xaml",
-              "RelativeToolTip": "MAUI-Applicatie\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-11T14:02:45.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "MAUI-Applicatie\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\AppShell.xaml.cs*",
-              "RelativeToolTip": "MAUI-Applicatie\\AppShell.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:25:34.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MAUI-Applicatie\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\MainPage.xaml*",
-              "RelativeToolTip": "MAUI-Applicatie\\MainPage.xaml*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-10T09:04:57.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MAUI-Applicatie\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\MainPage.xaml.cs",
-              "RelativeToolTip": "MAUI-Applicatie\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T09:08:59.84Z",
               "EditorCaption": ""
             },
             {
@@ -218,7 +179,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPagina.xaml",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\LoginPagina.xaml",
+              "RelativeDocumentMoniker": "MAUI-Applicatie\\LoginPagina.xaml",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\LoginPagina.xaml",
+              "RelativeToolTip": "MAUI-Applicatie\\LoginPagina.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T14:19:20.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "MAUI-Applicatie\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\AppShell.xaml.cs",
+              "RelativeToolTip": "MAUI-Applicatie\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:25:34.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WelkomPagina.xaml",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\WelkomPagina.xaml",
+              "RelativeDocumentMoniker": "MAUI-Applicatie\\WelkomPagina.xaml",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\WelkomPagina.xaml",
+              "RelativeToolTip": "MAUI-Applicatie\\WelkomPagina.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-10T09:04:57.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "BestellingPagina.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\BestellingPagina.xaml.cs",
+              "RelativeDocumentMoniker": "MAUI-Applicatie\\BestellingPagina.xaml.cs",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\BestellingPagina.xaml.cs",
+              "RelativeToolTip": "MAUI-Applicatie\\BestellingPagina.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:44:53.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\App.xaml",
               "RelativeDocumentMoniker": "MAUI-Applicatie\\App.xaml",
@@ -231,41 +244,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MAUI-Applicatie\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\MauiProgram.cs",
-              "RelativeToolTip": "MAUI-Applicatie\\MauiProgram.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "LoginPagina.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\LoginPagina.xaml.cs",
+              "RelativeDocumentMoniker": "MAUI-Applicatie\\LoginPagina.xaml.cs",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\LoginPagina.xaml.cs",
+              "RelativeToolTip": "MAUI-Applicatie\\LoginPagina.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:13:27.914Z",
+              "WhenOpened": "2025-06-11T14:23:04.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "PageViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\ViewModel\\PageViewModel.cs",
-              "RelativeDocumentMoniker": "MAUI-Applicatie\\ViewModel\\PageViewModel.cs",
-              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\ViewModel\\PageViewModel.cs",
-              "RelativeToolTip": "MAUI-Applicatie\\ViewModel\\PageViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MAUI-Applicatie\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\MauiProgram.cs",
+              "RelativeToolTip": "MAUI-Applicatie\\MauiProgram.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:18:52.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "NewPage2.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\NewPage2.xaml.cs",
-              "RelativeDocumentMoniker": "MAUI-Applicatie\\NewPage2.xaml.cs",
-              "ToolTip": "C:\\Users\\morre\\source\\repos\\Nieuwe map\\MAUI-Applicatie\\MAUI-Applicatie\\NewPage2.xaml.cs",
-              "RelativeToolTip": "MAUI-Applicatie\\NewPage2.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T07:44:53.122Z",
+              "WhenOpened": "2025-06-11T13:13:27.914Z",
               "EditorCaption": ""
             },
             {
