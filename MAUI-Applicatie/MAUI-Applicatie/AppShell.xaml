@@ -3,25 +3,17 @@
        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
        xmlns:pages="clr-namespace:MAUI_Applicatie"
        x:Class="MAUI_Applicatie.AppShell">
-    <TabBar>
-        <ShellContent Title="Account"
-          Route="LoginPagina"
-          ContentTemplate="{DataTemplate pages:LoginPagina}" />
-        
-    </TabBar>
-    
-    <ShellContent Title="Welkom"
-                  Route="WelkomPagina"
-                  ContentTemplate="{DataTemplate pages:WelkomPagina}" />
 
-    <ShellContent Title="Bestellingen"
-                  Route="BestellingPagina"
-                  ContentTemplate="{DataTemplate pages:BestellingPagina}" />
+    <FlyoutItem Title="Welkom" Route="WelkomPagina">
+        <ShellContent ContentTemplate="{DataTemplate pages:WelkomPagina}" />
+    </FlyoutItem>
 
-    <ShellContent Title="Account"
-                  Route="AccountPagina"
-                  ContentTemplate="{DataTemplate pages:AccountPagina}" />
+    <FlyoutItem Title="Bestellingen" Route="BestellingPagina">
+        <ShellContent ContentTemplate="{DataTemplate pages:BestellingPagina}" />
+    </FlyoutItem>
 
-    
+    <FlyoutItem Title="Account" Route="AccountPagina">
+        <ShellContent ContentTemplate="{DataTemplate pages:AccountPagina}" />
+    </FlyoutItem>
 
 </Shell>

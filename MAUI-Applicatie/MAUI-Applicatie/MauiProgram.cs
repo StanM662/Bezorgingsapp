@@ -18,8 +18,9 @@ namespace MAUI_Applicatie
 
             // Paginas tovoegen
             builder.Services.AddSingleton<BestellingPagina>();
-            builder.Services.AddSingleton<LoginPagina>();
-            
+            builder.Services.AddSingleton<NaamLogin>();
+            builder.Services.AddSingleton<WachtwoordLogin>();
+
             // ViewModels toevoegen
             builder.Services.AddSingleton<PageViewModel>();
             builder.Services.AddSingleton<LoginViewModel>();

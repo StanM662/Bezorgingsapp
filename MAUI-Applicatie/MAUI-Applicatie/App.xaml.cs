@@ -6,9 +6,13 @@
         {
             InitializeComponent();
 
-            if (Preferences.Get("IsLoggedIn", false)) { MainPage = new AppShell(); }
-            else { MainPage = new LoginPagina(new LoginViewModel()); }
-
+            MainPage = new AppShell();
+            Device.BeginInvokeOnMainThread(async () =>
+            {
+                await Shell.Current.GoToAsync(nameof(NaamLogin));
+            });
         }
     }
+
+
 }

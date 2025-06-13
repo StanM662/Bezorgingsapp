@@ -1,0 +1,18 @@
+namespace MAUI_Applicatie;
+
+public partial class NaamLogin : ContentPage
+{
+    public NaamLogin(LoginViewModel viewModel)
+    {
+        InitializeComponent();
+        BindingContext = viewModel;
+    }
+
+    protected override void OnAppearing()
+    {
+        base.OnAppearing();
+        Shell.SetFlyoutBehavior(this, FlyoutBehavior.Disabled);
+        Shell.SetBackButtonBehavior(this, new BackButtonBehavior { IsEnabled = false, IsVisible = false });
+    }
+
+}

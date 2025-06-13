@@ -10,4 +10,13 @@ public partial class WelkomPagina : ContentPage
         InitializeComponent();
         BindingContext = new MainViewModel();
     }
+
+    protected override void OnAppearing()
+    {
+        base.OnAppearing();
+        Shell.SetBackButtonBehavior(this, new BackButtonBehavior { IsEnabled = true, IsVisible = false });
+        Shell.SetFlyoutBehavior(this, FlyoutBehavior.Flyout);
+    }
+
+
 }

@@ -1,5 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
+using System.Xml.Linq;
 
 public partial class LoginViewModel : ObservableObject
 {
@@ -18,24 +19,28 @@ public partial class LoginViewModel : ObservableObject
     string password;
 
     [RelayCommand]
-    async Task Inloggen()
+    async Task VerifyName()
     {
-
-        if (!string.IsNullOrWhiteSpace(Name) && !string.IsNullOrWhiteSpace(Password))
+        if (users.ContainsKey(name))
         {
-            if (users.ContainsKey(Name) && users[Name] == Password)
-            {
-                try
-                {
-                    await Shell.Current.GoToAsync("///WelkomPagina");
-                }
-                catch (Exception ex)
-                {
-                    await Shell.Current.DisplayAlert("Navigatiefout", ex.Message, "OK");
-                }
-            }
-
+            await Shell.Current.GoToAsync("WachtwoordLogin");
+        }
+        else
+        {
+            await Shell.Current.DisplayAlert("Fout", "Gebruikersnaam bestaat niet", "OK");
         }
     }
 
+    [RelayCommand]
+    async Task VerifyPassword()
+    {
+        if (users.ContainsValue(password))
+        {
+            await Shell.Current.GoToAsync("WelkomPagina");
+        }
+        else
+        {
+            await Shell.Current.DisplayAlert("Fout", "Wachtwoord is onjuist", "OK");
+        }
+    }
 }

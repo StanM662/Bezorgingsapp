@@ -73,6 +73,9 @@
 	  <Compile Update="AcountPagina.xaml.cs">
 	    <DependentUpon>AcountPagina.xaml</DependentUpon>
 	  </Compile>
+	  <Compile Update="NaamLogin.xaml.cs">
+	    <DependentUpon>NaamLogin.xaml</DependentUpon>
+	  </Compile>
 	  <Compile Update="WelkomPagina.xaml.cs">
 	    <DependentUpon>WelkomPagina.xaml</DependentUpon>
 	  </Compile>
@@ -88,7 +91,13 @@
 	  <MauiXaml Update="AcountPagina.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="NaamLogin.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="NewPage4.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="WachtwoordLogin.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

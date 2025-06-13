@@ -12,10 +12,11 @@
             InitializeComponent();
 
             // Routing routes voor het navigeren naar andere pagina
+            Routing.RegisterRoute(nameof(NaamLogin), typeof(NaamLogin));
+            Routing.RegisterRoute(nameof(WachtwoordLogin), typeof(WachtwoordLogin));
+            Routing.RegisterRoute(nameof(WelkomPagina), typeof(WelkomPagina));
             Routing.RegisterRoute(nameof(BestellingPagina), typeof(BestellingPagina));
             Routing.RegisterRoute(nameof(AccountPagina), typeof(AccountPagina));
-            Routing.RegisterRoute(nameof(WelkomPagina), typeof(WelkomPagina));
-
 
         }
     }
