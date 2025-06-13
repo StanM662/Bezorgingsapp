@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-06-13T08:13:28.071</Modified>
+      <Modified>2025-06-13T09:58:09.556</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-06-13T08:13:27.952</Modified>
+      <Modified>2025-06-13T09:58:09.354</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MAUI-Applicatie.runtimeconfig.json">
       <PackagePath>MAUI-Applicatie.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MAUI-Applicatie.dll">
       <PackagePath>MAUI-Applicatie.dll</PackagePath>
-      <Modified>2025-06-13T08:13:27.302</Modified>
+      <Modified>2025-06-13T09:58:08.036</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MAUI-Applicatie.exe</PackagePath>
-      <Modified>2025-06-13T08:13:27.310</Modified>
+      <Modified>2025-06-13T09:58:08.093</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -292,7 +292,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MAUI-Applicatie.deps.json">
       <PackagePath>MAUI-Applicatie.deps.json</PackagePath>
-      <Modified>2025-06-13T08:13:27.871</Modified>
+      <Modified>2025-06-13T09:58:09.099</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

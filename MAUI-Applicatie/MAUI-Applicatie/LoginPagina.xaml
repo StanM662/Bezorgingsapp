@@ -4,25 +4,38 @@
              x:Class="MAUI_Applicatie.LoginPagina"
              Title="Account">
     <VerticalStackLayout>
-        <Label Padding="20"
-        Text="U bent niet ingelogd. Wilt u inloggen?"
-        VerticalOptions="Start" 
-        HorizontalOptions="Start" />
-        <Entry 
-            Placeholder="Voer je naam in"
-            TextColor="Black"
-            PlaceholderColor="Gray"
-            BackgroundColor="White"
-            WidthRequest="250"
-            Margin="20"
-            HorizontalOptions="Start"/>
-        <Entry 
-            Placeholder="Voer je wachtwoord in"
-            TextColor="Black"
-            PlaceholderColor="Gray"
-            BackgroundColor="White"
-            WidthRequest="250"
-            Margin="20"
-            HorizontalOptions="Start"/>
+        <Label Padding="20" Text="U bent niet ingelogd. Wilt u inloggen?" VerticalOptions="Center" HorizontalOptions="Center" />
+        <VerticalStackLayout Spacing="10" Padding="20">
+            <Label Text="Wat is je naam?" />
+            <Entry Placeholder="Typ hier..." Text="{Binding Name}" WidthRequest="250" HorizontalOptions="Center" />
+        </VerticalStackLayout>
+
+        <VerticalStackLayout Spacing="10" Padding="20">
+            <Label Text="Wat is je wachtwoord?" />
+            <Entry Placeholder="Typ hier..." Text="{Binding Password}" WidthRequest="250" HorizontalOptions="Center" />
+        </VerticalStackLayout>
+
+        <Frame BackgroundColor="LightSkyBlue"
+       Padding="20"
+       WidthRequest="200"
+       HorizontalOptions="Center"
+       HasShadow="True">
+
+            <Grid>
+                <Label Text="Inloggen"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               TextColor="White" />
+            </Grid>
+
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer
+                    Command="{Binding InloggenCommand}"/>
+
+            </Frame.GestureRecognizers>
+        </Frame>
+
+
     </VerticalStackLayout>
+
 </ContentPage>

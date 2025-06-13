@@ -6,7 +6,9 @@
         {
             InitializeComponent();
 
-            MainPage = new AppShell();
+            if (Preferences.Get("IsLoggedIn", false)) { MainPage = new AppShell(); }
+            else { MainPage = new LoginPagina(new LoginViewModel()); }
+
         }
     }
 }

@@ -13,7 +13,10 @@
 
             // Routing routes voor het navigeren naar andere pagina
             Routing.RegisterRoute(nameof(BestellingPagina), typeof(BestellingPagina));
-            Routing.RegisterRoute(nameof(LoginPagina), typeof(LoginPagina));
+            Routing.RegisterRoute(nameof(AccountPagina), typeof(AccountPagina));
+            Routing.RegisterRoute(nameof(WelkomPagina), typeof(WelkomPagina));
+
+
         }
     }
 }

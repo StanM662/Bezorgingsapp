@@ -17,6 +17,9 @@
     <MauiXaml Update="BestellingPagina.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="AcountPagina.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
   </ItemGroup>
   <ItemGroup>
     <None Update="App.xaml">

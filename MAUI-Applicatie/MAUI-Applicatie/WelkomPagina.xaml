@@ -12,24 +12,6 @@
             <Label Text="Deze mobiele applicatie is gemaakt door:&#10;Stan Morreau&#10;Sander Kleijnen&#10;Rick Theunisz"
                    Style="{StaticResource SubHeadline}" />
 
-            <Frame BackgroundColor="LightGray" Padding="20" WidthRequest="200" HorizontalOptions="Center">
-                <Label Text="Tap me to go to Page 1" HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black" />
-                <Frame.GestureRecognizers>
-                    <TapGestureRecognizer
-            Command="{Binding TapCommand}"
-            CommandParameter="BestellingPagina" />
-                </Frame.GestureRecognizers>
-            </Frame>
-
-            <Frame BackgroundColor="LightGray" Padding="20" WidthRequest="200" HorizontalOptions="Center">
-                <Label Text="Tap me to go to Page 2" HorizontalOptions="Center" VerticalOptions="Center" TextColor="Black" />
-                <Frame.GestureRecognizers>
-                    <TapGestureRecognizer
-                        Command="{Binding TapCommand}"
-                        CommandParameter="LoginPagina" />  
-                </Frame.GestureRecognizers>
-            </Frame>
-
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

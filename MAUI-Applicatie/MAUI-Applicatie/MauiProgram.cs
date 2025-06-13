@@ -15,9 +15,15 @@ namespace MAUI_Applicatie
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
+
+            // Paginas tovoegen
             builder.Services.AddSingleton<BestellingPagina>();
             builder.Services.AddSingleton<LoginPagina>();
+            
+            // ViewModels toevoegen
             builder.Services.AddSingleton<PageViewModel>();
+            builder.Services.AddSingleton<LoginViewModel>();
+
 
 #if DEBUG
             builder.Logging.AddDebug();
