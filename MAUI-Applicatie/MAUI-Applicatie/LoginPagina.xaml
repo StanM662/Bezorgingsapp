@@ -22,7 +22,7 @@
             PlaceholderColor="Gray"
             BackgroundColor="White"
             WidthRequest="250"
-            Margin="20"
+            Margin="50"
             HorizontalOptions="Start"/>
     </VerticalStackLayout>
 </ContentPage>
