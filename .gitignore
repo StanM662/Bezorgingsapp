@@ -8,3 +8,5 @@
 .db
 .pdb
 .DS_Store
+.bin/
+.obj/

@@ -15,7 +15,8 @@ public partial class WelkomPagina : ContentPage
     {
         base.OnAppearing();
         Shell.SetBackButtonBehavior(this, new BackButtonBehavior { IsEnabled = true, IsVisible = false });
-        Shell.SetFlyoutBehavior(this, FlyoutBehavior.Flyout);
+        Shell.Current.FlyoutBehavior = FlyoutBehavior.Flyout;
+
     }
 
 

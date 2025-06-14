@@ -4,7 +4,7 @@
        xmlns:pages="clr-namespace:MAUI_Applicatie"
        x:Class="MAUI_Applicatie.AppShell">
 
-    <FlyoutItem Title="Welkom" Route="WelkomPagina">
+    <FlyoutItem Title="Home" Route="WelkomPagina">
         <ShellContent ContentTemplate="{DataTemplate pages:WelkomPagina}" />
     </FlyoutItem>
 

@@ -4,9 +4,15 @@
              x:Class="MAUI_Applicatie.AccountPagina"
              Title="Account">
     <VerticalStackLayout>
-        <Label 
-            Text="Welcome to .NET MAUI!"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
+        <VerticalStackLayout HorizontalOptions="Center" Padding="25">
+            <Image Source="{Binding ProfilePicture.Source}" HeightRequest="150" Aspect="AspectFit" />
+            <Label x:Name="AccountLabel" Text="{Binding Naam}" FontSize="36"/>
+            <Label Text="{Binding Details}" FontSize="24"/>
+            <Label Text="{Binding Email}" FontSize="18"/>
+
+        </VerticalStackLayout>
+
+
+
     </VerticalStackLayout>
 </ContentPage>

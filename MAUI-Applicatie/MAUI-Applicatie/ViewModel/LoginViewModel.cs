@@ -1,15 +1,18 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
-using System.Xml.Linq;
+using MAUI_Applicatie.Models;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 public partial class LoginViewModel : ObservableObject
 {
-    Dictionary<string, string> users = new()
+    public List<Account> _users = new List<Account>()
     {
-        { "admin", "admin" },
-        { "Stan", "Stan123" },
-        { "Sander", "Sander123" },
-        { "Rick", "Rick123" }
+        new Account("admin", "admin", "Admin Details", "admin@example.com", new Image { Source = "zuyd_logo.png" }),
+        new Account("Stan", "Stan123", "Stan Morreau", "stan@example.com", new Image { Source = "zuyd_logo.png" }),
+        new Account("Sander", "Sander123", "Sander Kleijnen", "sander@example.com", new Image { Source = "zuyd_logo.png" }),
+        new Account("Rick", "Rick123", "Rick Theunisz", "rick@example.com", new Image { Source = "zuyd_logo.png" }),
     };
 
     [ObservableProperty]
@@ -18,10 +21,12 @@ public partial class LoginViewModel : ObservableObject
     [ObservableProperty]
     string password;
 
+    public Account LoggedInAccount { get; set; }
+
     [RelayCommand]
     async Task VerifyName()
     {
-        if (users.ContainsKey(name))
+        if (_users.Any(u => u.Username == Name))
         {
             await Shell.Current.GoToAsync("WachtwoordLogin");
         }
@@ -34,9 +39,15 @@ public partial class LoginViewModel : ObservableObject
     [RelayCommand]
     async Task VerifyPassword()
     {
-        if (users.ContainsValue(password))
+        var account = _users.FirstOrDefault(u => u.Username == Name && u.Password == Password);
+
+        if (account != null)
         {
-            await Shell.Current.GoToAsync("WelkomPagina");
+            LoggedInAccount = account;
+            UserSession.LoggedInUser = account.Username; 
+            UserSession.LoggedInAccount = account;
+
+            await Shell.Current.GoToAsync("//WelkomPagina");
         }
         else
         {

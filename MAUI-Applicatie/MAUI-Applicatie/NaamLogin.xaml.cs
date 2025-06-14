@@ -2,6 +2,10 @@ namespace MAUI_Applicatie;
 
 public partial class NaamLogin : ContentPage
 {
+    public NaamLogin()
+    {
+    }
+
     public NaamLogin(LoginViewModel viewModel)
     {
         InitializeComponent();
