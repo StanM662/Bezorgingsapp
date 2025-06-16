@@ -1,4 +1,7 @@
-﻿using MAUI_Applicatie.ViewModel;
+﻿
+using MAUI_Applicatie.ViewModel;
+using Plugin.Firebase.Core;
+using Plugin.Firebase.CloudMessaging;
 
 namespace MAUI_Applicatie;
 
@@ -19,5 +22,9 @@ public partial class WelkomPagina : ContentPage
 
     }
 
+    protected void buttonclicked()
+    {
+
+    }
 
 }

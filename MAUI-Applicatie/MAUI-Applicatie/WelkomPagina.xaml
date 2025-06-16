@@ -11,7 +11,8 @@
             <Label Text="Welkom bij de bestelapp" Style="{StaticResource Headline}" />
             <Label Text="Deze mobiele applicatie is gemaakt door:&#10;Stan Morreau&#10;Sander Kleijnen&#10;Rick Theunisz"
                    Style="{StaticResource SubHeadline}" />
-
+            
+            
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>

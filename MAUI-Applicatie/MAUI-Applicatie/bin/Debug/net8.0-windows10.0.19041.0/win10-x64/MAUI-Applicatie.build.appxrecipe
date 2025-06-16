@@ -8,7 +8,7 @@
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>x64</PackageArchitecture>
-    <PackageIdentityName>com.companyname.mauiapplicatie</PackageIdentityName>
+    <PackageIdentityName>com.devunit.deliverr</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
     <IntermediateOutputPath>C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
@@ -63,6 +63,21 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\zuyd_logo.scale-100.png">
       <PackagePath>zuyd_logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
@@ -202,21 +217,6 @@
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MAUI-Applicatie.deps.json">
       <PackagePath>MAUI-Applicatie.deps.json</PackagePath>
     </AppxPackagedFile>
@@ -328,6 +328,21 @@
     <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\plugin.firebase.cloudmessaging\3.1.2\lib\net8.0\Plugin.Firebase.CloudMessaging.dll">
+      <PackagePath>Plugin.Firebase.CloudMessaging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\plugin.firebase.core\3.1.1\lib\net8.0\Plugin.Firebase.Core.dll">
+      <PackagePath>Plugin.Firebase.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\shiny.core\3.3.4\lib\net8.0-windows10.0.19041\Shiny.Core.dll">
+      <PackagePath>Shiny.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\shiny.push\3.3.4\lib\net8.0\Shiny.Push.dll">
+      <PackagePath>Shiny.Push.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\system.reactive\6.0.0\lib\net6.0-windows10.0.19041\System.Reactive.dll">
+      <PackagePath>System.Reactive.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\microsoft.maui.controls.core\8.0.83\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
@@ -435,6 +450,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.Maui.Controls.HotReload.Forms.dll">
+      <PackagePath>Microsoft.Maui.Controls.HotReload.Forms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll">
+      <PackagePath>Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\XamlDiagnostics\Mobile\Microsoft.VisualStudio.DesignTools.TapContract.dll">
+      <PackagePath>Microsoft.VisualStudio.DesignTools.TapContract.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\microsoft.maui.controls.compatibility\8.0.83\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

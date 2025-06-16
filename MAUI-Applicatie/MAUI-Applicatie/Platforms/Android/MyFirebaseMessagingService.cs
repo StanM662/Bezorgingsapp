@@ -1,35 +1,32 @@
-﻿//using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
-//using Android.App;
-//using Firebase.Messaging;
+﻿using Android.App;
+using Android.Util;
+using Firebase.Messaging;
+using System.Threading.Tasks;
 
-//namespace MAUI_Applicatie.Platforms.Android
-//{
-//    [Service]
-//    [IntentFilter(new[] { "com.google.firebase.MESSAGING_EVENT" })]
-//    public class MyFirebaseMessagingService : FirebaseMessagingService
-//    {
-//        public override void OnMessageReceived(RemoteMessage message)
-//        {
-//            base.OnMessageReceived(message);
+namespace MAUI_Applicatie.Platforms.Android
+{
+    [Service(Exported = false)]
+    [IntentFilter(new[] { "com.google.firebase.MESSAGING_EVENT" })]
+    public class MyFirebaseMessagingService : FirebaseMessagingService
+    {
+        const string TAG = "FCM";
 
-//            // Extract notification data and show local notification if needed
-//            var notification = message.GetNotification();
-//            if (notification != null)
-//            {
-//                // Show notification with notification.Title and notification.Body
-//            }
-//        }
+        public override void OnNewToken(string token)
+        {
+            base.OnNewToken(token);
+            Log.Debug(TAG, $"New token: {token}");
 
-//        public override void OnNewToken(string token)
-//        {
-//            base.OnNewToken(token);
-//            System.Diagnostics.Debug.WriteLine($"Firebase token: {token}");
-//            // Send this token to your backend or save it
-//        }
-//    }
+        }
 
-//}
+        public override void OnMessageReceived(RemoteMessage message)
+        {
+            base.OnMessageReceived(message);
+
+            var title = message.GetNotification()?.Title ?? "No title";
+            var body = message.GetNotification()?.Body ?? "No body";
+
+            Log.Debug(TAG, $"Message Received - Title: {title}, Body: {body}");
+
+        }
+    }
+}
