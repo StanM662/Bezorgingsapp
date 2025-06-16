@@ -1,13 +1,11 @@
 ﻿using Microsoft.Extensions.Logging;
 using MAUI_Applicatie.ViewModel;
-using Plugin.Firebase.CloudMessaging;
-using Plugin.Firebase.Core;
 using Microsoft.Maui.LifecycleEvents;
-using Plugin.Firebase;
-
+using Plugin.Firebase; 
+using Shiny;
 
 #if ANDROID
-using Plugin.Firebase.CloudMessaging.Platforms.Android;
+using Firebase;
 #endif
 
 namespace MAUI_Applicatie
@@ -26,24 +24,21 @@ namespace MAUI_Applicatie
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                 });
 
-            // ViewModels and Pages
+#if ANDROID
+            builder.ConfigureLifecycleEvents(events =>
+            {
+                events.AddAndroid(android =>
+                    android.OnCreate((activity, _) =>
+                        FirebaseApp.InitializeApp(activity)
+                    ));
+            });
+#endif
+
             builder.Services.AddSingleton<BestellingPagina>();
             builder.Services.AddSingleton<NaamLogin>();
             builder.Services.AddSingleton<WachtwoordLogin>();
             builder.Services.AddSingleton<PageViewModel>();
             builder.Services.AddSingleton<LoginViewModel>();
-
-            // Android-specific Firebase initialization
-            builder.ConfigureLifecycleEvents(events =>
-            {
-#if ANDROID
-                events.AddAndroid(android =>
-                    android.OnCreate((activity, _) =>
-                        Firebase.FirebaseApp.InitializeApp(activity)
-                    ));
-
-#endif
-            });
 
 #if DEBUG
             builder.Logging.AddDebug();

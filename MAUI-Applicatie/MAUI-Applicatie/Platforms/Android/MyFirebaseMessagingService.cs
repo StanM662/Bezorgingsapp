@@ -1,7 +1,6 @@
 ﻿using Android.App;
 using Android.Util;
 using Firebase.Messaging;
-using System.Threading.Tasks;
 
 namespace MAUI_Applicatie.Platforms.Android
 {
@@ -15,7 +14,7 @@ namespace MAUI_Applicatie.Platforms.Android
         {
             base.OnNewToken(token);
             Log.Debug(TAG, $"New token: {token}");
-
+            // Optional: Send token to your backend if needed
         }
 
         public override void OnMessageReceived(RemoteMessage message)
@@ -26,7 +25,7 @@ namespace MAUI_Applicatie.Platforms.Android
             var body = message.GetNotification()?.Body ?? "No body";
 
             Log.Debug(TAG, $"Message Received - Title: {title}, Body: {body}");
-
+            // Optional: Display local notification here if needed
         }
     }
 }

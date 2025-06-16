@@ -40,26 +40,8 @@
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
-      <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
-      <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
-      <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
-      <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
-      <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
-      <PackagePath>OpenSans-Regular.ttf</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
-      <PackagePath>OpenSans-Semibold.ttf</PackagePath>
+    <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\Resources\Raw\service-account.json">
+      <PackagePath>service-account.json</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\zuyd_logo.scale-100.png">
       <PackagePath>zuyd_logo.scale-100.png</PackagePath>
@@ -229,6 +211,15 @@
     <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\communitytoolkit.mvvm\8.4.0\lib\net8.0-windows10.0.17763\CommunityToolkit.Mvvm.dll">
       <PackagePath>CommunityToolkit.Mvvm.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\google.apis\1.70.0\lib\net6.0\Google.Apis.dll">
+      <PackagePath>Google.Apis.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\google.apis.auth\1.70.0\lib\net6.0\Google.Apis.Auth.dll">
+      <PackagePath>Google.Apis.Auth.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\google.apis.core\1.70.0\lib\net6.0\Google.Apis.Core.dll">
+      <PackagePath>Google.Apis.Core.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
     </AppxPackagedFile>
@@ -328,6 +319,9 @@
     <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\microsoft.windowsappsdk\1.5.240627000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\newtonsoft.json\13.0.3\lib\net6.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\plugin.firebase.cloudmessaging\3.1.2\lib\net8.0\Plugin.Firebase.CloudMessaging.dll">
       <PackagePath>Plugin.Firebase.CloudMessaging.dll</PackagePath>
     </AppxPackagedFile>
@@ -339,6 +333,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\shiny.push\3.3.4\lib\net8.0\Shiny.Push.dll">
       <PackagePath>Shiny.Push.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\system.management\7.0.2\runtimes\win\lib\net7.0\System.Management.dll">
+      <PackagePath>System.Management.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\morre\.nuget\packages\system.reactive\6.0.0\lib\net6.0-windows10.0.19041\System.Reactive.dll">
       <PackagePath>System.Reactive.dll</PackagePath>

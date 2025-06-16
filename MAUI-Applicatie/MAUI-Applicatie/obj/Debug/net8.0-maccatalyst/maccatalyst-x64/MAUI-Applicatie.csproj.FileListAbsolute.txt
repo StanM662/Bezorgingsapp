@@ -2,6 +2,9 @@ C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MAUI-Applicatie.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\MAUI-Applicatie.pdb
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\CommunityToolkit.Mvvm.dll
+C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Google.Apis.dll
+C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Google.Apis.Auth.dll
+C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Google.Apis.Core.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
@@ -17,10 +20,13 @@ C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Newtonsoft.Json.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Plugin.Firebase.CloudMessaging.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Plugin.Firebase.Core.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Shiny.Core.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\Shiny.Push.dll
+C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.CodeDom.dll
+C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Management.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\System.Reactive.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ar\Microsoft.Maui.Controls.resources.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-maccatalyst\maccatalyst-x64\ca\Microsoft.Maui.Controls.resources.dll

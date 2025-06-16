@@ -12,28 +12,32 @@ public class MyPushDelegate : IPushDelegate
 
     public Task OnEntry(PushNotification notification)
     {
-        logger.LogInformation("Push notification received");
+        logger.LogInformation("Push notification opened.");
         return Task.CompletedTask;
     }
 
     public Task OnNewToken(string token)
     {
-        throw new NotImplementedException();
+        logger.LogInformation($"New token: {token}");
+        return Task.CompletedTask;
     }
 
     public Task OnReceived(PushNotification notification)
     {
-        throw new NotImplementedException();
+        logger.LogInformation($"Push received");
+        return Task.CompletedTask;
     }
 
     public Task OnTokenChanged(string newToken)
     {
-        logger.LogInformation("New FCM token: " + newToken);
+        logger.LogInformation($"Token changed: {newToken}");
         return Task.CompletedTask;
     }
 
     public Task OnUnRegistered(string token)
     {
-        throw new NotImplementedException();
+        logger.LogInformation($"Token unregistered: {token}");
+        return Task.CompletedTask;
     }
+
 }

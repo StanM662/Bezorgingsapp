@@ -892,8 +892,8 @@ public final class R {
 		public static final int notification_template_icon_low_bg = 0x7f0700f5;
 		public static final int notification_tile_bg = 0x7f0700f6;
 		public static final int notify_panel_notification_icon_bg = 0x7f0700f7;
-		public static final int tooltip_frame_dark = 0x7f0700f9;
-		public static final int tooltip_frame_light = 0x7f0700fa;
+		public static final int tooltip_frame_dark = 0x7f0700fa;
+		public static final int tooltip_frame_light = 0x7f0700fb;
 	}
 	public static final class id {
 		public static final int NO_DEBUG = 0x7f080006;
@@ -1237,8 +1237,8 @@ public final class R {
 		public static final int abc_shareactionprovider_share_with = 0x7f100018;
 		public static final int abc_shareactionprovider_share_with_application = 0x7f100019;
 		public static final int abc_toolbar_collapse_description = 0x7f10001a;
-		public static final int search_menu_title = 0x7f1000c0;
-		public static final int status_bar_notification_info_overflow = 0x7f1000c6;
+		public static final int search_menu_title = 0x7f1000be;
+		public static final int status_bar_notification_info_overflow = 0x7f1000c4;
 	}
 	public static final class style {
 		public static final int AlertDialog_AppCompat = 0x7f110001;

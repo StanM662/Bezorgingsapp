@@ -1,12 +1,19 @@
-/MAUI-applicatie/bin/Debug
-/MAUI-applicatie/bin/Debug/net8.0
-/MAUI-applicatie/obj
+# Build and IDE artifacts
+**/bin/
+**/obj/
 .vs/
-.user
-.suo
-.apk
-.db
-.pdb
-.DS_Store
-.bin/
-.obj/
+*.user
+*.suo
+
+# Output and debug files
+*.apk
+*.db
+*.pdb
+*.DS_Store
+
+# Private keys and sensitive data
+**/secrets/
+**/service-account.json
+**/raw/
+Resources/raw/service_account.json
+

@@ -7,6 +7,9 @@ C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Mvvm.dll
+C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.dll
+C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Auth.dll
+C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Google.Apis.Core.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
@@ -40,10 +43,12 @@ C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.CloudMessaging.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Plugin.Firebase.Core.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Shiny.Core.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Shiny.Push.dll
+C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Management.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.Reactive.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
@@ -181,10 +186,3 @@ C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
-C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
-C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
-C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
-C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
-C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
-C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf

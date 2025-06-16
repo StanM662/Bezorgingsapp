@@ -1,15 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.devunit.deliverr">
-	<application android:allowBackup="true" android:icon="@mipmap/appicon" android:supportsRtl="true" android:label="Deliverr">
-		<receiver android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver" android:exported="false"></receiver>
-		<receiver android:permission="com.google.android.c2dm.permission.SEND" android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.devunit.deliverr">
+
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+	<application android:allowBackup="true"
+				 android:icon="@mipmap/appicon"
+				 android:supportsRtl="true"
+				 android:label="Deliverr">
+
+		<receiver android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+				  android:exported="false" />
+
+		<receiver android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+				  android:permission="com.google.android.c2dm.permission.SEND"
+				  android:exported="true">
 			<intent-filter>
 				<action android:name="com.google.android.c2dm.intent.RECEIVE" />
 				<action android:name="com.google.android.c2dm.intent.REGISTRATION" />
-				<category android:name="${applicationId}" />
+				<category android:name="com.devunit.deliverr" />
 			</intent-filter>
 		</receiver>
+
+		<service android:name="com.google.firebase.messaging.FirebaseMessagingService"
+				 android:exported="false">
+			<intent-filter>
+				<action android:name="com.google.firebase.MESSAGING_EVENT" />
+			</intent-filter>
+		</service>
+
 	</application>
-	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-	<uses-permission android:name="android.permission.INTERNET" />
 </manifest>
