@@ -6,12 +6,12 @@
     <VerticalStackLayout>
         <Label Padding="20" Text="U bent niet ingelogd. Wilt u inloggen?" VerticalOptions="Center" HorizontalOptions="Center" />
         <VerticalStackLayout Spacing="10" Padding="20">
-            <Label Text="Wat is je naam?" />
+            <Label Text="Gebruikersnaam" />
             <Entry Placeholder="Typ hier..." Text="{Binding Name}" WidthRequest="250" HorizontalOptions="Center" />
         </VerticalStackLayout>
 
         <VerticalStackLayout Spacing="10" Padding="20">
-            <Label Text="Wat is je wachtwoord?" />
+            <Label Text="Wachtwoord" />
             <Entry Placeholder="Typ hier..." Text="{Binding Password}" WidthRequest="250" HorizontalOptions="Center" />
         </VerticalStackLayout>
 

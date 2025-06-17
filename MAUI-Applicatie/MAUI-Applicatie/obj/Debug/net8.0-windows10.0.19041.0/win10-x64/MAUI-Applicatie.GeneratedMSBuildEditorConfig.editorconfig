@@ -9,13 +9,13 @@ build_property.CsWinRTAotWarningLevel =
 build_property.TargetFramework = net8.0-windows10.0.19041.0
 build_property.TargetPlatformMinVersion = 10.0.17763.0
 build_property.UsingMicrosoftNETSdkWeb = 
-build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MAUI_Applicatie
-build_property.ProjectDir = C:\Users\morre\source\repos\Nieuwe map\MAUI-Applicatie\MAUI-Applicatie\
+build_property.ProjectDir = C:\Users\kleij\Source\Repos\Bezorgingsapp\MAUI-Applicatie\MAUI-Applicatie\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotExportsEnabled = 
@@ -26,63 +26,3 @@ build_property.CsWinRTMergeReferencedActivationFactories =
 build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
-
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/AcountPagina.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.AcountPagina.xaml
-build_metadata.AdditionalFiles.TargetPath = AcountPagina.xaml
-build_metadata.AdditionalFiles.RelativePath = AcountPagina.xaml
-
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/App.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.App.xaml
-build_metadata.AdditionalFiles.TargetPath = App.xaml
-build_metadata.AdditionalFiles.RelativePath = App.xaml
-
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/AppShell.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.AppShell.xaml
-build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
-build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
-
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/BestellingPagina.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.BestellingPagina.xaml
-build_metadata.AdditionalFiles.TargetPath = BestellingPagina.xaml
-build_metadata.AdditionalFiles.RelativePath = BestellingPagina.xaml
-
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/LoginPagina.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.LoginPagina.xaml
-build_metadata.AdditionalFiles.TargetPath = LoginPagina.xaml
-build_metadata.AdditionalFiles.RelativePath = LoginPagina.xaml
-
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/NaamLogin.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.NaamLogin.xaml
-build_metadata.AdditionalFiles.TargetPath = NaamLogin.xaml
-build_metadata.AdditionalFiles.RelativePath = NaamLogin.xaml
-
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/Resources/Styles/Colors.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.Resources.Styles.Colors.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
-
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/Resources/Styles/Styles.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.Resources.Styles.Styles.xaml
-build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
-build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
-
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/WachtwoordLogin.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.WachtwoordLogin.xaml
-build_metadata.AdditionalFiles.TargetPath = WachtwoordLogin.xaml
-build_metadata.AdditionalFiles.RelativePath = WachtwoordLogin.xaml
-
-[C:/Users/morre/source/repos/Nieuwe map/MAUI-Applicatie/MAUI-Applicatie/WelkomPagina.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MAUI_Applicatie.WelkomPagina.xaml
-build_metadata.AdditionalFiles.TargetPath = WelkomPagina.xaml
-build_metadata.AdditionalFiles.RelativePath = WelkomPagina.xaml
